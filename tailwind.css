@@ -1,0 +1,177 @@
+.w-1200{
+    width:1200px
+}
+.w-625{
+    width: 625px;
+    height: 560px;
+	left: 0;
+}
+.ml-custom-white{
+    margin-left:-290px;
+}
+.text-13{
+    font-size:13px;
+}
+.mt-600{
+    margin-top:600px;
+}
+.bg-color-custom{
+    background-color:#f3f3f3;
+}
+.w-620{
+    width:620px;
+}
+.h-500{
+    height:500px;
+}
+.left-c{
+    margin-left:60px;
+}
+.line180{
+    line-height:180%;
+}
+.atas{
+    background-image:url("image/atas.jpg");
+
+}
+.w-600{
+    width:600px;
+    height:400px;
+}
+.right-0{
+    margin-right:0;
+}
+.left-0{
+    margin-left:0;
+}
+.right{
+    width: 620px;
+	height: 550px;
+}
+
+.radius-custom{
+    border-radius:10px 0 0 10px;
+}
+.blue-custom{
+    color:#3902a9;
+}
+.radius-custom-left{
+    border-radius:0 10px 10px 0px;
+
+}
+.rounded-c-50{
+    border-radius:50px;
+}
+.border-c{
+    border:1px solid #FFB900 ;
+}
+.margin-custom{
+    margin-top:-5px;
+}
+
+.pt-170{
+    padding-top:170px;
+}
+.text-22{
+    font-size:22px;
+}
+.mt-custom{
+    margin-top:-120px;
+}
+.w-45{
+    width:45%;
+}
+
+.ml-c{
+    margin-left:50px
+}
+.h-150{
+    height:140vh;
+}
+.pt-350{
+    padding-top:350px;
+}
+.w-55{
+    width:55%;
+}
+
+.text-64{
+    font-size:64px;
+}
+.text-40{
+    font-size:40px;
+}
+.gap-265{
+    gap:265px;
+}
+.text-20{
+    font-size:20px;
+}
+.gap-77{
+    gap:77px;
+}
+.line-170{
+    line-height:170%;
+}
+.line-120{
+    line-height:120px;
+}
+.line-60{
+    line-height:60px;
+}
+
+.pt-270{
+    padding-top:240px;  
+}
+.translate-x-custom{
+    transform:translateX(44.2rem)
+}
+.text-44{
+    font-size:44px;
+}
+.min-h-70{
+    min-height:10vh;
+}
+.min-h-80{
+    min-height:80vh;
+}
+.min-h-85{
+    min-height:85vh;
+}
+.padding-16{
+    padding:16px;
+}
+.leading-96{
+    line-height:96px;
+}
+.w-custom{
+    width:350px;
+}
+.h-custom{
+    height:350px
+}
+.ml-custom{
+    margin-left:-190px;
+}
+.min-h-90{
+    min-height:90vh;
+}
+.h-90{
+    height:90vh;
+}
+.ml-104{
+    margin-left:104px;
+}
+.pappins{
+    font-family:'pappins',sans-serif;
+}
+.nunito{
+    font-family:'nunito',sans-serif;
+}
+.abu-abu{
+    color:#999; 
+}
+.search{
+    width:13px;
+    height:13px;
+}
