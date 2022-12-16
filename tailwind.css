@@ -144,6 +144,9 @@
 .leading-96{
     line-height:96px;
 }
+.ml-min{
+    margin-left:-260px;
+}
 .w-custom{
     width:350px;
 }
